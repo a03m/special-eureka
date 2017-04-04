@@ -1,0 +1,118 @@
+<html>
+    <head>
+        <title> Aneka Buah-buahan Segar </title>
+
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+
+        <body bgcolor="lime">
+
+    </head>
+
+<p style="font-family: algerian; color: yellow; font-size: 70px; position: static; text-align: center; "> Selamat Datang Semuanya </p>
+
+<hr width=100% size=2% color="blue">
+
+<font color=blue size=5 face="forte" style="text-shadow: white"> 
+ 
+    <marquee direction="left" scrollamount="10" >
+    <img src="http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/256/Manchester-United-icon.png" style="height: 30;width: 30;object-position:center;"> 
+    Disini Kalian Bisa Lihat Galeri Tentang Klub-klub Sepakbola yang Ada di Dunia ...
+    </marquee> 
+
+</font>
+
+<hr width=100% size=2% color="blue">
+
+<ul id="nav">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Teknologi</a></li>
+    <li><a href="#">Programming</a>
+
+<ul>
+    <li><a href="#">C++</a></li>
+    <li><a href="#">Delphi</a></li>
+    <li><a href="#">Visual Basic</a></li>
+</ul>
+</li>
+
+<li><a href="#">Web Design</a>
+<ul>
+    <li><a href="#">CSS</a></li>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">PHP</a></li>
+</ul>
+</li>
+
+ <li><a href="#">Tips dan Trik</a>
+ <ul>
+    <li><a href="#">Android</a></li>
+    <li><a href="#">Komputer</a></li>
+ </ul>
+ </li>
+
+  <li><a href="#">Daftar isi</a></li>
+ </ul>
+ <div class="clear"></div>
+
+<table border=2 align=center bgcolor="pink" style="color: blue;font-family: cambria;">
+
+<tr>
+        <td style="width:80%" rowspan="12"></td>
+        <th colspan="3">Daftar Klub Liga Inggris</th>
+    </tr>
+
+    <tr>
+        <th><a href="example.html">Man. United</a></th>
+        <th>Liverpool</th>
+    </tr>
+    <tr>
+        <th><a href="apel.html">Arsenal</a></th>
+        <th>Chelsea</th>
+    </tr>
+
+    <tr>
+        <th>Tottenham</th>
+        <th>Man. City</th>
+     </tr>
+
+     <tr>
+        <th>Everton</th>
+        <th>Stoke City</th>  
+    </tr> 
+
+    <tr>
+        <th>West Ham</th>
+        <th>Leicester City</th>    
+    </tr>
+
+    <tr>
+        <th>Swansea</th>
+        <th>Crystal Palace</th>
+    </tr>
+    <tr>
+        <th>Burnley</th>
+        <th>Middlesbrough</th>    
+    </tr>
+
+</table>
+<hr width=0% color=#d3f9e4>
+<table border=2 width=100% align=center>
+<tr>
+        <td><font size=4 color=white><b>Total buah segar merupakan supermarket yang menyediakan buah-buahan segar, buah-buahan seperti Apel, Jeruk, Bahkan si raja buah Durian pun juga dapat ditemukan disini. Meskipun fokus utamanya adalah menjual buah-buahan disini juga dapat ditemukan jajanan dan minuman ringan. Buat yang pengen menambah wawasan rasa dan bentuk tentang buah-buahan, datang aja kesini temukan buah-buahan yang mungkin belum kamu icip.</b></font></td>
+</tr>
+</table>
+
+<hr width=0% color=#d3f9e4>
+
+<table border=2 width=63% align=center>
+<tr>
+        <td><font size=4 color=blue><p align=center> <b><a href="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/17629631_10206605977426475_7519191948628612630_n.jpg?oh=a000eb1b35c72f6dd5d299944eab558c&oe=59578A12" target="_blank"> Klik Disini jika kalian ingin lihat klasemen terbaru ! </b></p></font></td>
+</tr>
+</table>
+
+<hr width=100% color=#d3f9e4>
+
+</body>
+
+</html>
